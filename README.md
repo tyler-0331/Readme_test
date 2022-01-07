@@ -10,7 +10,7 @@
 - Jae
 - Mattew
 
-[바다를 갈라요] (https://github.com/sonmose)
+[바다를 갈라요](https://github.com/sonmose)
 
 ```
   let myName="김구라";
